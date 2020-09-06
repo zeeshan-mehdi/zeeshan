@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/zeeshan-mehdi/github-calendar.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/github-calendar.git"
   },
   "keywords": [
     "github",
     "calendar",
     "embed"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (https://zeeshan-mehdi.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "contributors": [
     "Evan Palmer <evjpalmer@gmail.com> (http://evanpalmer.net)",
     "Francesco Tonini <francescoantoniotonini@gmail.com> (https://francescotonini.it)",
@@ -28,9 +28,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zeeshan-mehdi/github-calendar/issues"
+    "url": "https://github.com/IonicaBizau/github-calendar/issues"
   },
-  "homepage": "https://github.com/zeeshan-mehdi/github-calendar#readme",
+  "homepage": "https://github.com/IonicaBizau/github-calendar#readme",
   "dependencies": {
     "add-subtract-date": "^1.0.5",
     "elly": "^1.0.0",
@@ -61,9 +61,9 @@
             "</div>",
             "",
             "<script>",
-            "    GitHubCalendar(\".calendar\", \"zeeshan-mehdi\");",
+            "    GitHubCalendar(\".calendar\", \"your-username\");",
             "    // or enable responsive functionality:",
-            "    GitHubCalendar(\".calendar\", \"zeeshan-mehdi\", { responsive: true });",
+            "    GitHubCalendar(\".calendar\", \"your-username\", { responsive: true });",
             "</script>"
           ]
         }
@@ -80,10 +80,10 @@
     },
     "description": [
       {
-        "p": "Everybody<sup><sup>well, haters gonna hate</sup></sup> loves GitHub and everybody loves stats. So, why not making the GitHub contributions calendar available for being embeded in your web pages? Now [you can](https://zeeshan-mehdi.github.io/github-calendar/example). :tada:"
+        "p": "Everybody<sup><sup>well, haters gonna hate</sup></sup> loves GitHub and everybody loves stats. So, why not making the GitHub contributions calendar available for being embeded in your web pages? Now [you can](https://ionicabizau.github.io/github-calendar/example). :tada:"
       },
       {
-        "p": "[![](http://i.imgur.com/S1h8XoB.jpg)](https://zeeshan-mehdi.github.io/github-calendar/example)"
+        "p": "[![](http://i.imgur.com/S1h8XoB.jpg)](https://ionicabizau.github.io/github-calendar/example)"
       }
     ],
     "title": "github-calendar.js",
