@@ -63,4 +63,4 @@ Thanks! :sweat_smile:
 
 [1]: https://github.com/Bloggify/github-calendar/issues
 
-[2]: https://github.com/IonicaBizau/code-style
+[2]: https://github.com/zeeshan-mehdi/code-style

@@ -62,8 +62,8 @@ jQuery(document).ready(function($) {
         }
     );
     
-    /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
-    new GitHubCalendar("#github-graph", "IonicaBizau");
+    /* Github Calendar - https://github.com/zeeshan-mehdi/github-calendar */
+    new GitHubCalendar("#github-graph", "zeeshan-mehdi");
     
     
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */

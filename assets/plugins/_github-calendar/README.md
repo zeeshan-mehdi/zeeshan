@@ -3,7 +3,7 @@
 
 # github-calendar.js
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/github-calendar.svg)](https://www.npmjs.com/package/github-calendar) [![Downloads](https://img.shields.io/npm/dt/github-calendar.svg)](https://www.npmjs.com/package/github-calendar)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/zeeshan-mehdi/ama) [![Version](https://img.shields.io/npm/v/github-calendar.svg)](https://www.npmjs.com/package/github-calendar) [![Downloads](https://img.shields.io/npm/dt/github-calendar.svg)](https://www.npmjs.com/package/github-calendar)
 
 > Embed your GitHub contributions calendar anywhere.
 
@@ -86,34 +86,34 @@ Thanks! :heart:
 
 ## :sparkles: Related
 
- - [`github-profile-languages`](https://github.com/IonicaBizau/github-profile-languages)—Create a nice pie chart with the user's programming languages from their GitHub profile.
- - [`github-org-members.js`](https://github.com/IonicaBizau/github-org-members.js)—A JavaScript library for fetching and rendering in HTML the members of a GitHub organization.
- - [`gh-contributions`](https://github.com/IonicaBizau/github-contributions)—A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
- - [`github-emojify`](https://github.com/IonicaBizau/github-emojify#readme)—Emojify your GitHub repository descriptions.
- - [`github-stats`](https://github.com/IonicaBizau/github-stats)—Visualize stats about GitHub users and projects in your terminal.
- - [`github-labeller`](https://github.com/IonicaBizau/github-labeller#readme)—Automagically create issue labels in your GitHub projects.
- - [`cli-gh-cal`](https://github.com/IonicaBizau/cli-gh-cal)—GitHub like calendar graphs in command line.
- - [`gh-destroy`](https://github.com/IonicaBizau/gh-destroy#readme)—Delete multiple GitHub repositories.
- - [`ship-release`](https://github.com/IonicaBizau/ship-release#readme)—Publish new versions on GitHub and npm with ease.
- - [`github-calendar-legend`](https://github.com/IonicaBizau/github-calendar-legend#readme)—The GitHub contributions calendar colors.
- - [`github-pr-branch-links`](https://github.com/IonicaBizau/github-pr-branch-links)—Open in a new tab the clicked branch on a pull request page.
- - [`github-emoji-form-submit`](https://github.com/IonicaBizau/github-emoji-form-submit#readme)—Autocomplete selected Emoji when submitting forms on GitHub.com.
- - [`gh-repeat`](https://github.com/IonicaBizau/gh-repeat#readme)—Repetitive actions on multiple GitHub repositories.
- - [`gh-repos`](https://github.com/IonicaBizau/gh-repos#readme)—Get one or all the owner repositories from GitHub.
- - [`github-old-header`](https://github.com/IonicaBizau/github-old-header)—Brings the old header links back.
- - [`gh.js`](https://github.com/IonicaBizau/gh.js)—Tiny GitHub API wrapper for server and client.
- - [`ghcal`](https://github.com/IonicaBizau/ghcal)—See the GitHub contributions calendar of a user in the command line.
- - [`sort-github-user-repos`](https://github.com/IonicaBizau/sort-github-user-repos#readme)—Sort GitHub repositories by stars for user.
- - [`github-calendar-parser`](https://github.com/IonicaBizau/github-calendar-parser#readme)—Parses the GitHub contributions calendar SVG code into JSON.
- - [`gh-notifier`](https://bitbucket.org/IonicaBizau/gh-notifier#readme)—Receive desktop notifications from your GitHub dashboard.
- - [`octimatch`](https://github.com/IonicaBizau/OctiMatch#readme)—A matching game with GitHub's Octicons.
- - [`github-portfolio`](https://github.com/IonicaBizau/github-portfolio#readme)—A tool to generate a portfolio using data from your Github projects.
- - [`gh-polyglot`](https://github.com/IonicaBizau/node-gh-polyglot)—Get language stats about GitHub users and repositories.
- - [`cli-github`](https://github.com/IonicaBizau/cli-github)—A fancy GitHub client for command line.
- - [`github-calendar`](https://github.com/IonicaBizau/github-calendar#readme)—Embed your GitHub contributions calendar anywhere.
- - [`git-stats`](https://github.com/IonicaBizau/git-stats)—Local git statistics including GitHub-like contributions calendars.
- - [`repository-downloader`](https://github.com/IonicaBizau/repository-downloader)—Download all the repositories from BitBucket and GitHub, including your account, teams and where you created pull requests.
- - [`github-colors`](https://github.com/IonicaBizau/github-colors)—GitHub colors and file extensions mapping
+ - [`github-profile-languages`](https://github.com/zeeshan-mehdi/github-profile-languages)—Create a nice pie chart with the user's programming languages from their GitHub profile.
+ - [`github-org-members.js`](https://github.com/zeeshan-mehdi/github-org-members.js)—A JavaScript library for fetching and rendering in HTML the members of a GitHub organization.
+ - [`gh-contributions`](https://github.com/zeeshan-mehdi/github-contributions)—A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
+ - [`github-emojify`](https://github.com/zeeshan-mehdi/github-emojify#readme)—Emojify your GitHub repository descriptions.
+ - [`github-stats`](https://github.com/zeeshan-mehdi/github-stats)—Visualize stats about GitHub users and projects in your terminal.
+ - [`github-labeller`](https://github.com/zeeshan-mehdi/github-labeller#readme)—Automagically create issue labels in your GitHub projects.
+ - [`cli-gh-cal`](https://github.com/zeeshan-mehdi/cli-gh-cal)—GitHub like calendar graphs in command line.
+ - [`gh-destroy`](https://github.com/zeeshan-mehdi/gh-destroy#readme)—Delete multiple GitHub repositories.
+ - [`ship-release`](https://github.com/zeeshan-mehdi/ship-release#readme)—Publish new versions on GitHub and npm with ease.
+ - [`github-calendar-legend`](https://github.com/zeeshan-mehdi/github-calendar-legend#readme)—The GitHub contributions calendar colors.
+ - [`github-pr-branch-links`](https://github.com/zeeshan-mehdi/github-pr-branch-links)—Open in a new tab the clicked branch on a pull request page.
+ - [`github-emoji-form-submit`](https://github.com/zeeshan-mehdi/github-emoji-form-submit#readme)—Autocomplete selected Emoji when submitting forms on GitHub.com.
+ - [`gh-repeat`](https://github.com/zeeshan-mehdi/gh-repeat#readme)—Repetitive actions on multiple GitHub repositories.
+ - [`gh-repos`](https://github.com/zeeshan-mehdi/gh-repos#readme)—Get one or all the owner repositories from GitHub.
+ - [`github-old-header`](https://github.com/zeeshan-mehdi/github-old-header)—Brings the old header links back.
+ - [`gh.js`](https://github.com/zeeshan-mehdi/gh.js)—Tiny GitHub API wrapper for server and client.
+ - [`ghcal`](https://github.com/zeeshan-mehdi/ghcal)—See the GitHub contributions calendar of a user in the command line.
+ - [`sort-github-user-repos`](https://github.com/zeeshan-mehdi/sort-github-user-repos#readme)—Sort GitHub repositories by stars for user.
+ - [`github-calendar-parser`](https://github.com/zeeshan-mehdi/github-calendar-parser#readme)—Parses the GitHub contributions calendar SVG code into JSON.
+ - [`gh-notifier`](https://bitbucket.org/zeeshan-mehdi/gh-notifier#readme)—Receive desktop notifications from your GitHub dashboard.
+ - [`octimatch`](https://github.com/zeeshan-mehdi/OctiMatch#readme)—A matching game with GitHub's Octicons.
+ - [`github-portfolio`](https://github.com/zeeshan-mehdi/github-portfolio#readme)—A tool to generate a portfolio using data from your Github projects.
+ - [`gh-polyglot`](https://github.com/zeeshan-mehdi/node-gh-polyglot)—Get language stats about GitHub users and repositories.
+ - [`cli-github`](https://github.com/zeeshan-mehdi/cli-github)—A fancy GitHub client for command line.
+ - [`github-calendar`](https://github.com/zeeshan-mehdi/github-calendar#readme)—Embed your GitHub contributions calendar anywhere.
+ - [`git-stats`](https://github.com/zeeshan-mehdi/git-stats)—Local git statistics including GitHub-like contributions calendars.
+ - [`repository-downloader`](https://github.com/zeeshan-mehdi/repository-downloader)—Download all the repositories from BitBucket and GitHub, including your account, teams and where you created pull requests.
+ - [`github-colors`](https://github.com/zeeshan-mehdi/github-colors)—GitHub colors and file extensions mapping
 
 
 
