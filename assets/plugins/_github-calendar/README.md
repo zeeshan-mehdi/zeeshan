@@ -8,10 +8,10 @@
 > Embed your GitHub contributions calendar anywhere.
 
 
-Everybody<sup><sup>well, haters gonna hate</sup></sup> loves GitHub and everybody loves stats. So, why not making the GitHub contributions calendar available for being embeded in your web pages? Now [you can](https://ionicabizau.github.io/github-calendar/example). :tada:
+Everybody<sup><sup>well, haters gonna hate</sup></sup> loves GitHub and everybody loves stats. So, why not making the GitHub contributions calendar available for being embeded in your web pages? Now [you can](https://zeeshan-mehdi.github.io/github-calendar/example). :tada:
 
 
-[![](http://i.imgur.com/S1h8XoB.jpg)](https://ionicabizau.github.io/github-calendar/example)
+[![](http://i.imgur.com/S1h8XoB.jpg)](https://zeeshan-mehdi.github.io/github-calendar/example)
 
 
 ## :cloud: Installation
@@ -122,16 +122,16 @@ Thanks! :heart:
 [MIT][license] © [Ionică Bizău][website]
 
 
-[badge_patreon]: https://ionicabizau.github.io/badges/patreon.svg
-[badge_amazon]: https://ionicabizau.github.io/badges/amazon.svg
-[badge_paypal]: https://ionicabizau.github.io/badges/paypal.svg
-[badge_paypal_donate]: https://ionicabizau.github.io/badges/paypal_donate.svg
+[badge_patreon]: https://zeeshan-mehdi.github.io/badges/patreon.svg
+[badge_amazon]: https://zeeshan-mehdi.github.io/badges/amazon.svg
+[badge_paypal]: https://zeeshan-mehdi.github.io/badges/paypal.svg
+[badge_paypal_donate]: https://zeeshan-mehdi.github.io/badges/paypal_donate.svg
 
-[patreon]: https://www.patreon.com/ionicabizau
+[patreon]: https://www.patreon.com/zeeshan-mehdi
 [amazon]: http://amzn.eu/hRo9sIZ
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 
-[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(https%3A%2F%2Fionicabizau.net)&year=2016#license-mit
-[website]: https://ionicabizau.net
+[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(https%3A%2F%2Fzeeshan-mehdi.net)&year=2016#license-mit
+[website]: https://zeeshan-mehdi.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
