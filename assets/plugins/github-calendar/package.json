@@ -63,13 +63,13 @@
             "</div>",
             "",
             "<script>",
-            "    GitHubCalendar(\".calendar\", \"zeeshan-mehdi\");",
+            "    GitHubCalendar(\".calendar\", \"your-username\");",
             "",
             "    // or enable responsive functionality:",
-            "    GitHubCalendar(\".calendar\", \"zeeshan-mehdi\", { responsive: true });",
+            "    GitHubCalendar(\".calendar\", \"your-username\", { responsive: true });",
             "",
             "    // Use a proxy",
-            "    GitHubCalendar(\".calendar\", \"zeeshan-mehdi\", { proxy (username) { return fetch(`https://your-proxy.com/github?user=${username}`).then(r => r.text()) });",
+            "    GitHubCalendar(\".calendar\", \"your-username\", { proxy (username) { return fetch(`https://your-proxy.com/github?user=${username}`).then(r => r.text()) });",
             "</script>"
           ]
         }

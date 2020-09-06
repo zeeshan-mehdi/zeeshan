@@ -61,9 +61,9 @@
             "</div>",
             "",
             "<script>",
-            "    GitHubCalendar(\".calendar\", \"zeeshan-mehdi\");",
+            "    GitHubCalendar(\".calendar\", \"your-username\");",
             "    // or enable responsive functionality:",
-            "    GitHubCalendar(\".calendar\", \"zeeshan-mehdi\", { responsive: true });",
+            "    GitHubCalendar(\".calendar\", \"your-username\", { responsive: true });",
             "</script>"
           ]
         }
